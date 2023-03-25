@@ -1,11 +1,11 @@
-1. Arrancar la presentación hasta la filmina 3
-2. Mostrar la BD de alquiler de películas
-3. Describir el requerimiento de CRUDs en BE
-4. Preguntar por estimaciones
-5. Correr el script hasta el punto 6
-6. Preguntar quién conoce GraphQL
-7. Continuar la presentación hasta la filmina 10
-8. Correr el script hasta el punto 14
-9. Continuar la presentación hasta la filmina 13
-10. Correr el script hasta el punto 23
-11. Continuar la presentación hasta la filmina 14
+1. Run presentation and stop at slide 3
+2. Show the data base example
+3. Mention the CRUDs BackEnd requirement
+4. Ask for estimations
+5. Run script and stop at step 6
+6. Ask for who knows about GraphQL
+7. Continue presentation and stop at slide 10
+8. Run script and stop at step 14
+9. Continue presentation and stop at slide 13
+10. Run script and stop at step 23
+11. Continue presentation and stop at slide 14
