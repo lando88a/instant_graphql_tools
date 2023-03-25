@@ -1,0 +1,11 @@
+1. Arrancar la presentación hasta la filmina 3
+2. Mostrar la BD de alquiler de películas
+3. Describir el requerimiento de CRUDs en BE
+4. Preguntar por estimaciones
+5. Correr el script hasta el punto 6
+6. Preguntar quién conoce GraphQL
+7. Continuar la presentación hasta la filmina 10
+8. Correr el script hasta el punto 14
+9. Continuar la presentación hasta la filmina 13
+10. Correr el script hasta el punto 23
+11. Continuar la presentación hasta la filmina 14
